@@ -5,7 +5,7 @@ REGLAS:
 1. Utilizar Google Fonts para cambiar el tipo de fuente del documento en los "H1" estilo: "vina sans"
 2. Los elementos con clase .selectors tendrán color black, centrado y border: solid (7,7,7) que enmarcara el segundo parrafo.
 3. Todos los "p" deben de estar centrados.
-4. Todos los elementos dentro de "<p> deben estar en un tamaño exacto de 20px.
+4. Todos los elementos dentro de "p" deben estar en un tamaño exacto de 20px.
 5. Los elementos img tendrán un ancho width de 100%, un border: solid (195, 9, 179) 1px;
 6. Los elementos h3 tendrán color de fondo background-color: rgba(130, 97, 187, 0.529), relleno de 0.5px y esquinas     redondeadas con valor de 5px. Por otro lado debe estar centrado.
 7. El elemento body tendrá margen de 20% únicamente a la derecha y izquierda.
